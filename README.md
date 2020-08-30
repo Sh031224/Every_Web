@@ -45,4 +45,5 @@
   - 웹 : [차승호](https://github.com/Sh031224)
   - 안드로이드 : [김주엽](https://github.com/Kim-Ju-Yeop)
   - 서버 : [최진우](https://github.com/Choi-Jinwoo)
+  - 윈도우 : [김경훈](https://github.com/KyungHoon0126)
 - 문의: 1cktmdgh2@gmail.com
