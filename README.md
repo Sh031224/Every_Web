@@ -46,4 +46,5 @@
   - 안드로이드 : [김주엽](https://github.com/Kim-Ju-Yeop)
   - 서버 : [최진우](https://github.com/Choi-Jinwoo)
   - 윈도우 : [김경훈](https://github.com/KyungHoon0126)
+  - 디자인 : [임규민](https://github.com/limgyumin)
 - 문의: 1cktmdgh2@gmail.com
