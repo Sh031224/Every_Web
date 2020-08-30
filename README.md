@@ -42,5 +42,7 @@
 
 - 학생의 생활을 더 편리하게 해주기 위한 서비스를 제공합니다.
 - 개발
-  - 웹　: [차승호](https://github.com/Sh031224)
+  - 웹 : [차승호](https://github.com/Sh031224)
+  - 안드로이드 : [김주엽](https://github.com/Kim-Ju-Yeop)
+  - 서버 : [최진우](https://github.com/Choi-Jinwoo)
 - 문의: 1cktmdgh2@gmail.com
